@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RTM SFS Mod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d13f01fa4171c70ae06f3098b5742cfaac2fc1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RTM SFS Mod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RTM SFS Mod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
