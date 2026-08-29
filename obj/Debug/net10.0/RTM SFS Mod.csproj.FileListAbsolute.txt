@@ -1,0 +1,29 @@
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\appsettings.Development.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\appsettings.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\RTM SFS Mod.staticwebassets.endpoints.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\RTM SFS Mod.exe
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\RTM SFS Mod.deps.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\RTM SFS Mod.runtimeconfig.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\RTM SFS Mod.dll
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net10.0\RTM SFS Mod.pdb
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\rpswa.dswa.cache.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.AssemblyInfoInputs.cache
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.AssemblyInfo.cs
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.csproj.CoreCompileInputs.cache
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\rjimswa.dswa.cache.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\scopedcss\bundle\RTM SFS Mod.styles.css
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\staticwebassets.build.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\staticwebassets.build.json.cache
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\staticwebassets.development.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\swae.build.ex.cache
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.dll
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\refint\RTM SFS Mod.dll
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.pdb
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.genruntimeconfig.cache
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\ref\RTM SFS Mod.dll
+c:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net10.0\RTM SFS Mod.csproj.AssemblyReference.cache

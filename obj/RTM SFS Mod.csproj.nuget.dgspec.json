@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\nasmwj\\RTM SFS Mod\\RTM SFS Mod\\RTM SFS Mod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\nasmwj\\RTM SFS Mod\\RTM SFS Mod\\RTM SFS Mod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\nasmwj\\RTM SFS Mod\\RTM SFS Mod\\RTM SFS Mod.csproj",
+        "projectName": "RTM SFS Mod",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\nasmwj\\RTM SFS Mod\\RTM SFS Mod\\RTM SFS Mod.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\nasmwj\\RTM SFS Mod\\RTM SFS Mod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

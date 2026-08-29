@@ -1,0 +1,52 @@
+Part_Utility.PositionParts(WorldView.ToLocalPosition(Base.planetLoader.spaceCenter.LaunchPadLocation.position), new Vector2(0.5f, 0f), round: true, useLaunchBounds: true, array2);
+        new JointGroup(RocketManager.GenerateJoints(array2), array2.ToList()).RecreateGroups(out var newGroups);
+        
+        foreach(var group in newGroups)
+        {
+            Rocket rocket = UnityEngine.Object.Instantiate(rocketPrefab);
+            rocket.rocketName = "Peer";
+
+            rocket.SetJointGroup(group);
+
+            Double2 padPos = Base.planetLoader.spaceCenter.LaunchPadLocation.position;
+            var planet = Base.planetLoader.spaceCenter.LaunchPadLocation.planet;
+
+            float bottomOffset = 0f;
+
+            if (rocket.partHolder != null 
+            && rocket.partHolder.parts != null 
+            && rocket.partHolder.parts.Count > 0)
+            {
+                var parts = rocket.partHolder.parts;
+
+                if (Part_Utility.GetBuildColliderBounds_WorldSpace(out Rect rectBound,false,parts.ToArray()))
+                {
+                    bottomOffset = Mathf.Abs(rectBound.center.y - rectBound.yMin); 
+                }
+            }
+    
+            Double2 normalSpawnPos = padPos.normalized;
+            Double2 correctedSpawnPos = padPos + (normalSpawnPos * bottomOffset);
+            Part_Utility.PositionParts(WorldView.ToLocalPosition(Base.planetLoader.spaceCenter.LaunchPadLocation.position), new Vector2(0.5f, 0f),true,true, array2);
+
+            if (rocket.stats != null)
+            {
+                rocket.stats.Load(-1);
+            }
+            if (rocket is I_Physics physInterface)
+            {
+                physInterface.PhysicsMode = false;
+            }
+
+            if (rocket.rb2d != null)
+            {
+                rocket.rb2d.simulated = true;
+                rocket.rb2d.bodyType = RigidbodyType2D.Kinematic;
+                rocket.rb2d.linearVelocity = Vector2.zero;
+                rocket.rb2d.angularVelocity = 0f;
+            }
+            if (rocket.physics != null)
+            {
+                rocket.physics.enabled = false;
+            }
+        }

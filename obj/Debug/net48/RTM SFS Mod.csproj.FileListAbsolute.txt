@@ -1,0 +1,9 @@
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net48\RTM SFS Mod.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net48\RTM SFS Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net48\RTM SFS Mod.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net48\RTM SFS Mod.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net48\RTM SFS Mod.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net48\RTM SFS Mod.dll
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\bin\Debug\net48\RTM SFS Mod.pdb
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net48\RTM SFS Mod.dll
+C:\Users\Hp\OneDrive\Desktop\nasmwj\RTM SFS Mod\RTM SFS Mod\obj\Debug\net48\RTM SFS Mod.pdb
