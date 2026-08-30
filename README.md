@@ -11,4 +11,7 @@ A client-side multiplayer mod for **Spaceflight Simulator (SFS)**.
 ## Roadmap
 - [x] Core multiplayer connection setup
 - [x] Player position syncing
+- [ ] Collision (In Progress)
+  - [x] First half done
+  - [ ] Second half pending
 - [ ] Public alpha release
