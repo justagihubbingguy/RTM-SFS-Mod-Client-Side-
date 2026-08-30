@@ -9,6 +9,6 @@ A client-side multiplayer mod for **Spaceflight Simulator (SFS)**.
 * **Client-Side Optimization:** Smooth performance without altering the current installation.
 
 ## Roadmap
-- [ ] Core multiplayer connection setup
-- [ ] Player position syncing
+- [x] Core multiplayer connection setup
+- [x] Player position syncing
 - [ ] Public alpha release
