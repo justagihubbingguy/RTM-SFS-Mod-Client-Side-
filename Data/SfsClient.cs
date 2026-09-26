@@ -51,7 +51,8 @@ public enum PacketType
 {
     PositionUpdate = 0,
     BlueprintSpawn = 1,
-    DespawnRocket = 2
+    DespawnRocket = 2,
+    LobbyInfo = 3
 }
 public class SfsClient : MonoBehaviour
 {
@@ -106,7 +107,7 @@ public class SfsClient : MonoBehaviour
         if (_client != null)
         {
             _client.Stop(); 
-            Debug.Log("Networking threads stopped, process ready to exit.");
+            Debug.Log("Ready to exit.");
         }
     }
     //starting.
@@ -228,6 +229,10 @@ public class SfsClient : MonoBehaviour
                         _client.SendToAll(mirror, DeliveryMethod.ReliableOrdered, peer);
                     }
 
+                    break;
+                case PacketType.LobbyInfo:
+                    string roomCode = reader.GetString();
+                    Debug.Log($"Connected to room code: {roomCode}");
                     break;
 
             }

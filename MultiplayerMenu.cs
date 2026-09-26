@@ -53,7 +53,7 @@ namespace RTMSFS
                 menuHolder = null;
             }
         }
-
+        
         private static void Connect()
         {
             MsgDrawer.main.Log($"Connected to room : {RoomText}, port: {PortText}");
